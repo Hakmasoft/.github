@@ -31,7 +31,7 @@ TBD
 
 [Briefly describe your approach to collaboration, engineering, accessibility, security, quality, or open-source maintenance.]
 
-- **Technology:** [Languages, frameworks, platforms, or standards]
+- **Technology:** Python, Rust, Web3
 - **Contribution model:** [Open to the public / Community reviewed / Internal team]
 - **Documentation:** [Where users and contributors can find setup, API, and support information]
 
@@ -42,9 +42,9 @@ Link to a public contribution guide, issue templates, or community channels.
 -->
 
 - Read our [contribution guide](CONTRIBUTING.md).
-- Browse [open issues](https://github.com/your-organisation) to find a place to contribute.
+- Browse [open issues](https://github.com/Hakmasoft) to find a place to contribute.
 - Review our [code of conduct](CODE_OF_CONDUCT.md).
-- Follow [@your-organisation](https://github.com/your-organisation) for updates.
+- Follow [Hakamasoft](https://github.com/Hakamasoft) for updates.
 
 ## Contact
 
